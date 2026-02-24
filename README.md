@@ -44,9 +44,3 @@ Contributions, issues, and feature requests are welcome. For small changes, open
 
 ---
 
-If you'd like, I can also:
-
-- add a `requirements.txt` or `pyproject.toml`
-- add unit tests for core functions
-- add example sessions in the README
-  Just tell me which you'd prefer.
